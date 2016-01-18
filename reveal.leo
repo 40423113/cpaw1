@@ -61,21 +61,40 @@
 </v>
 </v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="leo.20160118192241.1"><vh>@edit 40423113_cp_w1.md</vh></v>
-<v t="leo.20160118192254.1"><vh>@edit 40423113_cp_w2.md</vh></v>
-<v t="leo.20160118192301.1"><vh>@edit 40423113_cp_w3.md</vh></v>
-<v t="leo.20160118192308.1"><vh>@edit 40423113_cp_w5.md</vh></v>
-<v t="leo.20160118192316.1"><vh>@edit 40423113_cp_w6.md</vh></v>
-<v t="leo.20160118192323.1"><vh>@edit 40423113_cp_w7.md</vh></v>
-<v t="leo.20160118192330.1"><vh>@edit 40423113_cp_w8.md</vh></v>
-<v t="leo.20160118192339.1"><vh>@edit 40423113_cp_w11.md</vh></v>
-<v t="leo.20160118192346.1"><vh>@edit 40423113_cp_w12.md</vh></v>
-<v t="leo.20160118192352.1"><vh>@edit 40423113_cp_w14.md</vh></v>
-<v t="leo.20160118192402.1"><vh>@edit 40423113_cp_w15.md</vh></v>
-<v t="leo.20160118192410.1"><vh>@edit 40423113_cp_w17.md</vh></v>
-</v>
+<v t="amd.20150919114010.1" a="E"><vh>@path .\</vh>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="leo.20160118195946.1"><vh>@edit 40423113_cp_w1_p.html</vh></v>
+<v t="leo.20160118195954.1"><vh>@edit 40423113_cp_w2_p.html</vh></v>
+<v t="leo.20160118200024.1"><vh>@edit 40423113_cp_w3_p.html</vh></v>
+<v t="leo.20160118200030.1"><vh>@edit 40423113_cp_w5_p.html</vh></v>
+<v t="leo.20160118200036.1"><vh>@edit 40423113_cp_w6_p.html</vh></v>
+<v t="leo.20160118200043.1"><vh>@edit 40423113_cp_w7_p.html</vh></v>
+<v t="leo.20160118200049.1"><vh>@edit 40423113_cp_w8_p.html</vh></v>
+<v t="leo.20160118200056.1"><vh>@edit 40423113_cp_w11_p.html</vh></v>
+<v t="leo.20160118200104.1"><vh>@edit 40423113_cp_w12_p.html</vh></v>
+<v t="leo.20160118200113.1"><vh>@edit 40423113_cp_w14_p.html</vh></v>
+<v t="leo.20160118200119.1"><vh>@edit 40423113_cp_w15_p.html</vh></v>
+<v t="leo.20160118200125.1"><vh>@edit 40423113_cp_w17_p.html</vh></v>
+<v t="leo.20160118200648.1" a="E"><vh>@path pelican</vh>
+<v t="leo.20160118200648.2"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20160118200648.3"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160118200648.4" a="E"><vh>@path content</vh>
+<v t="leo.20160118200648.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160118200648.6"><vh>@edit 40423113_cp_w1.md</vh></v>
+<v t="leo.20160118200648.7"><vh>@edit 40423113_cp_w2.md</vh></v>
+<v t="leo.20160118200648.8"><vh>@edit 40423113_cp_w3.md</vh></v>
+<v t="leo.20160118200648.9"><vh>@edit 40423113_cp_w5.md</vh></v>
+<v t="leo.20160118200648.10"><vh>@edit 40423113_cp_w6.md</vh></v>
+<v t="leo.20160118200648.11"><vh>@edit 40423113_cp_w7.md</vh></v>
+<v t="leo.20160118200648.12"><vh>@edit 40423113_cp_w8.md</vh></v>
+<v t="leo.20160118200648.13"><vh>@edit 40423113_cp_w11.md</vh></v>
+<v t="leo.20160118200648.14"><vh>@edit 40423113_cp_w12.md</vh></v>
+<v t="leo.20160118200648.15"><vh>@edit 40423113_cp_w14.md</vh></v>
+<v t="leo.20160118200648.16"><vh>@edit 40423113_cp_w15.md</vh></v>
+<v t="leo.20160118200648.17"><vh>@edit 40423113_cp_w17.md</vh></v>
+</v>
+</v>
+</v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
@@ -2247,5 +2266,9 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20160118200648.1"></t>
+<t tx="leo.20160118200648.2"></t>
+<t tx="leo.20160118200648.4"></t>
+<t tx="leo.20160118200648.5"></t>
 </tnodes>
 </leo_file>

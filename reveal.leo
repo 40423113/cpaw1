@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
@@ -62,8 +62,18 @@
 </v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20160118192241.1"><vh>@edit 40423113_cp_w1.md</vh></v>
+<v t="leo.20160118192254.1"><vh>@edit 40423113_cp_w2.md</vh></v>
+<v t="leo.20160118192301.1"><vh>@edit 40423113_cp_w3.md</vh></v>
+<v t="leo.20160118192308.1"><vh>@edit 40423113_cp_w5.md</vh></v>
+<v t="leo.20160118192316.1"><vh>@edit 40423113_cp_w6.md</vh></v>
+<v t="leo.20160118192323.1"><vh>@edit 40423113_cp_w7.md</vh></v>
+<v t="leo.20160118192330.1"><vh>@edit 40423113_cp_w8.md</vh></v>
+<v t="leo.20160118192339.1"><vh>@edit 40423113_cp_w11.md</vh></v>
+<v t="leo.20160118192346.1"><vh>@edit 40423113_cp_w12.md</vh></v>
+<v t="leo.20160118192352.1"><vh>@edit 40423113_cp_w14.md</vh></v>
+<v t="leo.20160118192402.1"><vh>@edit 40423113_cp_w15.md</vh></v>
+<v t="leo.20160118192410.1"><vh>@edit 40423113_cp_w17.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
@@ -284,7 +294,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
